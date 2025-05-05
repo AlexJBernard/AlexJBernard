@@ -1,16 +1,13 @@
 ## Hi there 👋
----
 I'm Alex Bernard, a computer science major from NC State! Currently searching for jobs in software and web development.
 
 Frequent user of JavaScript, SQL, PHP, and Java; but always looking to learn more!
 
 ## More about me!
----
 - Eager learner, expecially with others
 - Video game enthuthiast (Platformers, RPGs, Adventure Games)
 
 ## Notable Projects
----
 ### [GameBot.js](https://github.com/AlexJBernard/gamebot-js) 
 **Development Status:** Ongoing
 
