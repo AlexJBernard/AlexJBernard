@@ -8,6 +8,12 @@ Frequent user of JavaScript, SQL, PHP, and Java; but always looking to learn mor
 - Video game enthuthiast (Platformers, RPGs, Adventure Games)
 
 ## Notable Projects
+### [Pokemon Game Tracker](https://github.com/AlexJBernard/Cognixia-FutureHorizons-CapstoneProject)
+**Development Status:** Complete
+
+A terminal controlled tracking-application that allows the user to compile a list of Pokemon games they own and track their progress based on the number of Pokemon they've caught in each game. 
+This project was made as the final capstone project in Cognixia's Future Horizons upskilling program.
+
 ### [GameBot.js](https://github.com/AlexJBernard/gamebot-js) 
 **Development Status:** Ongoing
 
